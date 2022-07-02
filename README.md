@@ -1,16 +1,4 @@
 # grade_calculator_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![ex2](https://user-images.githubusercontent.com/66571666/177010870-a79fd082-193b-4047-a55b-43b007c4397f.png)
+![ex](https://user-images.githubusercontent.com/66571666/177010873-1c61ea10-3117-425b-9197-b546e7c0349b.png)
