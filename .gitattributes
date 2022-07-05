@@ -1,5 +1,7 @@
-*.cpp linguist-detectable=false
-*.cmake linguist-detectable=false
-*.dart linguist-detectable=true
-
-
+github-linguist
+52.90%  HTML
+42.84%  JavaScript
+2.87%   Perl
+0.62%   CSS
+0.41%   Perl
+0.35%   Shell
